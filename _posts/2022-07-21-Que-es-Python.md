@@ -2,7 +2,7 @@
 layout: post
 author: Liitaa
 ---
-**Python** es un lenguaje de programacion de alto nivel, gratuito, multiplataforma y de codigo abierto. Es uno de los lenguajes mas demandados en el mundo del desarrollo de software, se trata de un lenguaje interpretado, es decir, no es necesario compilarlo para ejecutar las aplicaciones escritas en **Python**, sino que se ejecutan directamente por el ordenador utilizando un programa denominado interpretador, por lo que no es necesario "traducirlo" a lenguaje de maquina.
+**Python** es un lenguaje de programacion de alto nivel, gratuito, multiplataforma y de codigo abierto. Es uno de los lenguajes mas demandados en el mundo del desarrollo de software, se trata de un lenguaje interpretado, es decir, no es necesario compilarlo para ejecutar las aplicaciones escritas en **Python**, ya que es un lenguaje interpretado, por lo que no es necesario "traducirlo" a lenguaje de maquina.
 
  Empresas como Google, Youtube, Yahoo, Amazon, Dell, Intel e incluso Nasa, usan Python. Es un lenguaje en demanda.
 
