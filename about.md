@@ -1,10 +1,8 @@
 ---
-title: About
+title: Sobre mi
 layout: page
 ---
 
-Hey! This is the "Leaf" Jekyll theme created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
+Hola, soy Lia. Actualmente me encuentro estudiando ingenieria en Ciberseguridad. Por aca estare compartiendo algunas de las cosas que voy aprendiendo. De momento comenzare mostrando algo de lo que ya se de Python, desde cero, apto para personas sin conocimientos previos en programacion. Si te gustaria aprender a programar, Python es el lenguaje ideal para comenzar, ya que es sencillo de leer y facil de escribir, es multiplataforma y de codigo abierto. Ademas, la demanda de desarrolladores Python ha aumentado significativamente en los ultimos anos.
 
-You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
-
-(Change this by editing `about.md` file)
+Si eres nuevo en esto, te invito a quedarte y aprender conmigo, y tambien compartir tus conocimientos con la comunidad.
